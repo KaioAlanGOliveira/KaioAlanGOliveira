@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou o Kaio! 👋
 
-<!--
-**KaioAlanGOliveira/KaioAlanGOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desenvolvedor Java
+Sou um desenvolvedor focado em aplicações desktop e web, com experiência em sistemas de cadastro, gerenciamento de dados e integração com bancos de dados SQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</p>
+
+---
+
+### 📊 Minhas Estatísticas
+<p align="center">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+* **Email:** kaioalan29@gmail.com
+* **Localização:** Taguatinga, DF
+
+---
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
