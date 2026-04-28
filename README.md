@@ -1,47 +1,43 @@
-<h1 align="center">Olá, eu sou o Kaio Alan 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Kaio Alan</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Java | Backend & Desktop</strong>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Java;Backend+%7C+Desktop;Apaixonado+por+tecnologia;Sempre+evoluindo..." />
 </p>
 
 <p align="center">
-  Transformando lógica em soluções eficientes e escaláveis 🚀
-</p>
-
----
-
-## 🚀 Sobre mim
-
-💻 Desenvolvedor focado no ecossistema Java  
-📊 Experiência com sistemas de cadastro, automação e banco de dados  
-🧠 Sempre buscando evoluir em arquitetura e boas práticas  
-⚙️ Foco atual: aplicações desktop, integrações e backend  
-
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  🚀 Transformando lógica em soluções eficientes
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 🧠 Sobre mim
+
+💻 Desenvolvedor Java focado em backend e aplicações desktop  
+📊 Experiência com sistemas de cadastro e banco de dados  
+⚙️ Integrações e automações fazem parte do meu dia a dia  
+📈 Sempre evoluindo em arquitetura e boas práticas  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaioAlanGOliveira&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAlanGOliveira&layout=compact&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=java,git,html,css,mysql" />
+
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KaioAlanGOliveira&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAlanGOliveira&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaioAlanGOliveira&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=KaioAlanGOliveira&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -49,13 +45,31 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:kaioalan29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5561991387445">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="COLE_SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+<a href="mailto:kaioalan29@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5561991387445">
+  <img src="https://img.shields.io/badge/WhatsApp-00C853?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="COLE_SEU_LINKEDIN_AQUI">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Objetivo
+
+🎯 Me tornar um desenvolvedor cada vez mais sólido em backend  
+🔥 Construir sistemas escaláveis e bem estruturados  
+📚 Evoluir continuamente em tecnologia  
+
+---
+
+<p align="center">
+  ⚡ "Código limpo hoje, sistema escalável amanhã."
 </p>
