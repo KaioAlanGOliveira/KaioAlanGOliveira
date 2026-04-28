@@ -1,27 +1,29 @@
-# Olá, eu sou o Kaio Alan! 👋
+# Olá, sou o Kaio Alan! 👋
 
 ### 👨‍💻 Desenvolvedor Java | Backend & Desktop
-Sou um desenvolvedor focado em construir soluções robustas com **Java**. Tenho experiência no desenvolvimento de sistemas de gerenciamento de dados, automação de processos e integração com bancos de dados SQL para aplicações desktop e web.
+Sou um desenvolvedor focado na criação de soluções robustas com **Java**. Tenho experiência no desenvolvimento de aplicações desktop e web, com foco em sistemas de gerenciamento de dados, automação de diretórios e integração com bancos de dados SQL.
 
 ---
 
-### 🚀 Destaques e Projetos
-*   **[Directory Organizer](https://github.com):** Ferramenta automática que organiza arquivos por extensão (Java).
-*   **Sistemas de Cadastro:** Desenvolvimento de interfaces CRUD completas com foco em experiência do usuário e integridade de dados.
+### 🛠️ Tecnologias e Habilidades
 
----
-
-### 🛠 Tech Stack
+**Linguagens e Frameworks:**
 <p align="left">
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Spring" />
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+**Ferramentas e Outros:**
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📈 Estatísticas de Desenvolvimento
 <p align="center">
   <img height="180em" src="https://vercel.app"/>
   <img height="180em" src="https://vercel.app"/>
@@ -29,12 +31,11 @@ Sou um desenvolvedor focado em construir soluções robustas com **Java**. Tenho
 
 ---
 
-### 📫 Contato para Oportunidades
-*   **LinkedIn:** [://linkedin.com](https://://linkedin.com) <!-- COLOQUE SEU LINK AQUI -->
-*   **Email:** kaioalan29@gmail.com
-*   **Localização:** Taguatinga, DF (Disponível para Remoto / Híbrido)
+### 🤝 Vamos nos conectar?
+Estou sempre em busca de novos desafios e colaborações em projetos Java.
+* 📧 **Email:** [kaioalan29@gmail.com](mailto:kaioalan29@gmail.com)
+* 📍 **Localização:** Taguatinga, DF (Disponível para remoto)
+* 💼 **LinkedIn:** [Adicione seu link aqui]
 
 ---
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
+*“Transformando lógica em soluções eficientes.”*
