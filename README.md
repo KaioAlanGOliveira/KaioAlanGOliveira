@@ -1,262 +1,199 @@
-# KAIO ALAN
-### Software Developer · Java · Backend · Web
+# KAIO ALAN | Desenvolvedor de Software
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=8B9BB4&center=true&vCenter=true&width=700&lines=Construindo+solu%C3%A7%C3%B5es+com+Java;Backend+%7C+Web+%7C+Desktop;APIs+REST+%7C+JPA+%7C+SQL;Aprendizado+cont%C3%ADnuo.+Evolu%C3%A7%C3%A3o+constante." alt="Animação de apresentação" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:080808,50:191919,100:6F541B&text=KAIO%20ALAN&fontColor=F2CD78&fontSize=55&fontAlignY=38&desc=DESENVOLVIMENTO%20COM%20PROP%C3%93SITO&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Banner preto e dourado de Kaio Alan" />
 </p>
 
 <p align="center">
-  <a href="#projetos"><img src="https://img.shields.io/badge/PROJETOS-171717?style=for-the-badge" /></a>
-  <a href="#tecnologias"><img src="https://img.shields.io/badge/TECNOLOGIAS-171717?style=for-the-badge" /></a>
-  <a href="#sobre-mim"><img src="https://img.shields.io/badge/SOBRE_MIM-171717?style=for-the-badge" /></a>
-  <a href="#contato"><img src="https://img.shields.io/badge/CONTATO-171717?style=for-the-badge" /></a>
+  <a href="https://github.com/KaioAlanGOliveira">
+    <img src="https://img.shields.io/badge/GitHub-KaioAlanGOliveira-111111?style=for-the-badge&logo=github&logoColor=E8C46A" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/FOCO-JAVA%20BACKEND-111111?style=for-the-badge&logo=openjdk&logoColor=E8C46A" alt="Java Backend" />
+  <img src="https://img.shields.io/badge/ESTUDANDO-ANGULAR-111111?style=for-the-badge&logo=angular&logoColor=E8C46A" alt="Angular" />
+</p>
+
+<p align="center">
+  <i>Transformando ideias em soluções reais através do código.</i>
+</p>
+
+<p align="center">
+  <a href="#sobre-mim">Sobre mim</a> •
+  <a href="#tecnologias">Tecnologias</a> •
+  <a href="#projetos">Projetos</a> •
+  <a href="#estatisticas">Estatísticas</a> •
+  <a href="#contato">Contato</a>
 </p>
 
 ---
-
-<p align="center">
-  <strong>Transformar ideias em soluções.</strong><br>
-  Código bem estruturado. Aprendizado constante. Evolução real.
-</p>
 
 ## 01. Sobre mim
 
-Sou Kaio Alan Gonçalves Oliveira, estudante de programação desde 2022, com foco no desenvolvimento de software utilizando Java.
+Olá! Sou desenvolvedor de software com foco em **Java Backend**, construção de APIs e desenvolvimento de aplicações desktop e web.
 
-Tenho interesse em construir aplicações que resolvam problemas reais, explorando desde regras de negócio e persistência de dados até APIs, interfaces web e aplicações desktop.
+Tenho experiência prática com Java, JPA, Hibernate, bancos de dados relacionais e desenvolvimento de interfaces. Também estudo Angular para construir aplicações integradas ao backend.
 
-Gosto de entender como as coisas funcionam, experimentar tecnologias e transformar conhecimento em projetos práticos. Busco evoluir tecnicamente, escrever código organizado e desenvolver soluções que sejam funcionais e fáceis de manter.
+Meu objetivo é evoluir continuamente, escrever código organizado e desenvolver soluções úteis, sustentáveis e bem estruturadas.
 
-**Meu foco atual:** aprofundar meus conhecimentos em Java, arquitetura de aplicações, APIs REST, bancos de dados e desenvolvimento web com Angular.
+- **Foco principal:** Java e desenvolvimento backend.
+- **Persistência:** JPA, Hibernate e SQL.
+- **Desenvolvimento web:** APIs REST e Angular.
+- **Ferramentas:** Git, GitHub, Maven e ambientes de desenvolvimento Java.
+- **Mentalidade:** disciplina, aprendizado contínuo e melhoria constante.
+
+> **DISCIPLINA HOJE. EVOLUÇÃO TODOS OS DIAS.**
+
+## 02. Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCO-JAVA-171717?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/BACKEND-APIs_REST-171717?style=flat-square" />
-  <img src="https://img.shields.io/badge/DADOS-SQL-171717?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WEB-ANGULAR-171717?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=E8C46A" alt="Java" />
+  <img src="https://img.shields.io/badge/Jakarta_EE-111111?style=for-the-badge&logo=jakartaee&logoColor=E8C46A" alt="Jakarta EE" />
+  <img src="https://img.shields.io/badge/JPA-111111?style=for-the-badge&logoColor=E8C46A" alt="JPA" />
+  <img src="https://img.shields.io/badge/Hibernate-111111?style=for-the-badge&logo=hibernate&logoColor=E8C46A" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Maven-111111?style=for-the-badge&logo=apachemaven&logoColor=E8C46A" alt="Maven" />
 </p>
 
----
+### Backend e linguagens
 
-## 02. Projetos em destaque
+<p>
+  <img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=E8C46A" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=E8C46A" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=E8C46A" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-171717?style=flat-square&logo=html5&logoColor=E8C46A" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-171717?style=flat-square&logo=css3&logoColor=E8C46A" alt="CSS3" />
+  <img src="https://img.shields.io/badge/REST_API-171717?style=flat-square&logoColor=E8C46A" alt="REST API" />
+</p>
 
-Projetos pessoais e de estudo nos quais aplico conceitos de programação, modelagem de dados, automação e integração entre tecnologias.
+### Frameworks e persistência
+
+<p>
+  <img src="https://img.shields.io/badge/Jakarta_EE-171717?style=flat-square&logo=jakartaee&logoColor=E8C46A" alt="Jakarta EE" />
+  <img src="https://img.shields.io/badge/JPA-171717?style=flat-square&logoColor=E8C46A" alt="JPA" />
+  <img src="https://img.shields.io/badge/Hibernate-171717?style=flat-square&logo=hibernate&logoColor=E8C46A" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Angular-171717?style=flat-square&logo=angular&logoColor=E8C46A" alt="Angular" />
+  <img src="https://img.shields.io/badge/PrimeNG-171717?style=flat-square&logo=primeng&logoColor=E8C46A" alt="PrimeNG" />
+</p>
+
+### Bancos de dados e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=E8C46A" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=E8C46A" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-171717?style=flat-square&logo=firebase&logoColor=E8C46A" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=E8C46A" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=E8C46A" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Eclipse-171717?style=flat-square&logo=eclipseide&logoColor=E8C46A" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-171717?style=flat-square&logo=intellijidea&logoColor=E8C46A" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS_Code-171717?style=flat-square&logo=visualstudiocode&logoColor=E8C46A" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/WildFly-171717?style=flat-square&logoColor=E8C46A" alt="WildFly" />
+  <img src="https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=E8C46A" alt="Docker" />
+</p>
+
+## 03. Projetos
+
+Projetos que representam minha prática com desenvolvimento backend, aplicações web, aplicações desktop e automação.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 / WP-CateSys</h3>
-      <p><strong>Gestão acadêmica</strong></p>
-      Aplicação voltada à gestão de alunos, professores, turmas, aulas e registros de presença.
-      <br><br>
-      <code>Java</code> <code>Angular</code> <code>JPA</code> <code>MySQL</code>
-      <br><br>
-      <a href="https://github.com/KaioAlanGOliveira/WP-CateSys">Explorar projeto ↗</a>
+      <h3>01. WP-CateSys</h3>
+      <p>Sistema web para gerenciamento de alunos, professores, turmas, aulas e presença.</p>
+      <p><code>Java</code> <code>Angular</code> <code>MySQL</code></p>
+      <a href="https://github.com/KaioAlanGOliveira/WP-CateSys">VER PROJETO ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>02 / WP-Login</h3>
-      <p><strong>Integração entre frontend e backend</strong></p>
-      Projeto de estudo com endpoints REST, injeção de dependências e organização das camadas da aplicação.
-      <br><br>
-      <code>Java</code> <code>Jakarta EE</code> <code>Angular</code> <code>JPA</code>
-      <br><br>
-      <a href="https://github.com/KaioAlanGOliveira/WP-Login">Explorar projeto ↗</a>
+      <h3>02. WP-Login</h3>
+      <p>Projeto de autenticação e integração entre frontend e backend.</p>
+      <p><code>Java</code> <code>Angular</code> <code>JPA</code></p>
+      <a href="https://github.com/KaioAlanGOliveira/WP-Login">VER PROJETO ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 / Cadastro de Fiéis</h3>
-      <p><strong>Aplicação desktop</strong></p>
-      Sistema de cadastro e consulta de fiéis e gerenciamento de pagamentos de dízimos.
-      <br><br>
-      <code>Java</code> <code>Swing</code> <code>Hibernate</code> <code>MySQL</code>
-      <br><br>
-      <a href="https://github.com/KaioAlanGOliveira/sw_cad_fiel">Explorar projeto ↗</a>
+      <h3>03. Cadastro de Fiéis</h3>
+      <p>Aplicação desktop para cadastro e gerenciamento de informações.</p>
+      <p><code>Java</code> <code>Swing</code> <code>MySQL</code></p>
+      <a href="https://github.com/KaioAlanGOliveira/sw_cad_fiel">VER PROJETO ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>04 / Tool-QrCode</h3>
-      <p><strong>Utilitário para WhatsApp</strong></p>
-      Aplicação desktop para gerar QR Codes com número de telefone e mensagem personalizada.
-      <br><br>
-      <code>Java</code> <code>Desktop</code> <code>QR Code</code>
-      <br><br>
-      <a href="https://github.com/KaioAlanGOliveira/Tool-QrCode">Explorar projeto ↗</a>
+      <h3>04. Tool-QrCode</h3>
+      <p>Ferramenta para geração de QR Codes.</p>
+      <p><code>Java</code> <code>QR Code</code></p>
+      <a href="https://github.com/KaioAlanGOliveira/Tool-QrCode">VER PROJETO ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>05 / WhatsApp Bot</h3>
-      <p><strong>Automação de navegador</strong></p>
-      Projeto de automação para localizar contatos e interagir com o WhatsApp Web.
-      <br><br>
-      <code>Java</code> <code>Selenium</code> <code>WebDriver</code>
-      <br><br>
-      <a href="https://github.com/KaioAlanGOliveira/whatsapp-bot">Explorar projeto ↗</a>
+      <h3>05. WhatsApp Bot</h3>
+      <p>Projeto de automação de interações com o WhatsApp Web.</p>
+      <p><code>Java</code> <code>Selenium</code></p>
+      <a href="https://github.com/KaioAlanGOliveira/whatsapp-bot">VER PROJETO ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>06 / Directory Organizer</h3>
-      <p><strong>Organização de arquivos</strong></p>
-      Ferramenta que organiza arquivos em diretórios de acordo com regras definidas.
-      <br><br>
-      <code>JavaScript</code> <code>Node.js</code>
-      <br><br>
-      <a href="https://github.com/KaioAlanGOliveira/directory-organizer">Explorar projeto ↗</a>
+      <h3>06. Directory Organizer</h3>
+      <p>Organização automática de arquivos e diretórios.</p>
+      <p><code>JavaScript</code> <code>Node.js</code></p>
+      <a href="https://github.com/KaioAlanGOliveira/directory-organizer">VER PROJETO ↗</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>07 / MP-Notificador</h3>
-      <p><strong>Comunicação de grupos de oração</strong></p>
-      Projeto destinado a avisos, notificações e mensagens religiosas para uma comunidade.
-      <br><br>
-      <code>Aplicativo</code> <code>Notificações</code>
-      <br><br>
-      <a href="https://github.com/KaioAlanGOliveira/MP-Notificador">Explorar projeto ↗</a>
+      <h3>07. MP-Notificador</h3>
+      <p>Projeto relacionado a avisos e notificações para um grupo católico.</p>
+      <a href="https://github.com/KaioAlanGOliveira/MP-Notificador">VER PROJETO ↗</a>
     </td>
     <td width="50%" valign="top">
-      <h3>08 / Outros projetos</h3>
-      <p><strong>Exploração e aprendizado</strong></p>
-      Outros projetos de cadastro, controle de informações, aplicações web e estudos de Java.
-      <br><br>
-      <code>Java</code> <code>JPA</code> <code>SQL</code> <code>Web</code>
-      <br><br>
-      <a href="https://github.com/KaioAlanGOliveira?tab=repositories">Ver todos os repositórios ↗</a>
+      <h3>08. Cadastro Web de Fiéis</h3>
+      <p>Aplicação web voltada ao cadastro e gerenciamento de fiéis.</p>
+      <p><code>Java</code> <code>Web</code></p>
+      <a href="https://github.com/KaioAlanGOliveira/cad_web_Fiel">VER PROJETO ↗</a>
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><strong>Ver outros projetos</strong></summary>
-
-  <br>
-
-  - [WP_CadastroFiel](https://github.com/KaioAlanGOliveira/WP_CadastroFiel) — cadastro e gerenciamento de fiéis com Java e JPA.
-  - [cad_web_Fiel](https://github.com/KaioAlanGOliveira/cad_web_Fiel) — aplicação web para cadastro de fiéis e controle de pagamentos.
-  - [JavaEE](https://github.com/KaioAlanGOliveira/JavaEE) — agenda de contatos com JSP, Servlets e MySQL.
-  - [Todos os repositórios](https://github.com/KaioAlanGOliveira?tab=repositories)
-
-</details>
-
----
-
-## 03. Tecnologias
-
-### Linguagens e desenvolvimento
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" alt="Java, JavaScript, TypeScript, HTML e CSS" />
-</p>
-
-### Backend e persistência
-
-<p>
-  <img src="https://img.shields.io/badge/Jakarta_EE-171717?style=flat-square" />
-  <img src="https://img.shields.io/badge/JAX--RS-171717?style=flat-square" />
-  <img src="https://img.shields.io/badge/JPA-171717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hibernate-171717?style=flat-square&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-171717?style=flat-square&logo=apachemaven&logoColor=white" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" alt="Angular, TypeScript, JavaScript, HTML e CSS" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/PrimeNG-171717?style=flat-square&logo=primeng&logoColor=white" />
-</p>
-
-### Banco de dados e modelagem
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" alt="MySQL, PostgreSQL e Firebase" />
-  <img src="https://img.shields.io/badge/Oracle_SQL_Developer-171717?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Data_Modeler-171717?style=flat-square&logo=oracle&logoColor=white" />
-</p>
-
-### Ferramentas e servidores
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,eclipse,idea,vscode,postman,docker" alt="Git, GitHub, Eclipse, IntelliJ IDEA, VS Code, Postman e Docker" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/WildFly-171717?style=flat-square" />
-  <img src="https://img.shields.io/badge/Apache_Tomcat-171717?style=flat-square&logo=apachetomcat&logoColor=white" />
-</p>
-
-<details>
-  <summary><strong>Conceitos que estudo e aplico</strong></summary>
-
-  <br>
-
-  - Desenvolvimento backend com Java.
-  - Construção e integração de APIs REST.
-  - Persistência de dados com JPA e Hibernate.
-  - Consultas SQL e modelagem relacional.
-  - Organização de aplicações em camadas.
-  - Desenvolvimento de interfaces com Angular.
-  - Aplicações desktop com Java Swing.
-  - Versionamento de código com Git e GitHub.
-
-</details>
-
----
-
-## 04. GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaioAlanGOliveira&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=171717&text_color=555555&icon_color=171717&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAlanGOliveira&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=171717&text_color=555555" alt="Linguagens mais utilizadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KaioAlanGOliveira&hide_border=true&background=FFFFFF&ring=171717&fire=555555&currStreakLabel=171717&sideLabels=555555&dates=777777" alt="Sequência de contribuições" />
-</p>
-
 <p align="center">
   <a href="https://github.com/KaioAlanGOliveira?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORAR_REPOSIT%C3%93RIOS-171717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/EXPLORAR_TODOS_OS_PROJETOS-111111?style=for-the-badge&logo=github&logoColor=E8C46A" alt="Explorar todos os projetos" />
   </a>
 </p>
 
----
+## 04. Estatísticas do GitHub
 
-## 05. Além da tecnologia
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaioAlanGOliveira&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E8C46A&icon_color=E8C46A&text_color=E5E5E5&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAlanGOliveira&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E8C46A&text_color=E5E5E5" alt="Linguagens mais utilizadas" />
+</p>
 
-Acredito que evoluir como desenvolvedor também envolve continuar aprendendo como pessoa.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaioAlanGOliveira&hide_border=true&background=0D0D0D&ring=E8C46A&fire=E8C46A&currStreakLabel=E8C46A&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="Sequência de contribuições no GitHub" />
+</p>
 
-Meus interesses incluem:
+## 05. Além do código
 
-- **Filosofia e desenvolvimento pessoal:** reflexão, conhecimento e autodesenvolvimento.
-- **Jogos e ficção científica:** criatividade, estratégia e novas possibilidades.
-- **Língua inglesa:** aprendizado contínuo para ampliar meus conhecimentos.
-- **Fé católica e catequese:** vivência dos valores cristãos e serviço à comunidade.
-- **Esporte:** disciplina, constância e superação de desafios.
+Acredito que evoluir como desenvolvedor também envolve desenvolver disciplina, curiosidade e capacidade de aprender.
 
----
+- **Conhecimento:** filosofia, livros e desenvolvimento pessoal.
+- **Ciência:** astronomia, astrologia como interesse pessoal e ficção científica.
+- **Disciplina:** academia, esporte e melhoria contínua.
+- **Propósito:** fé católica, valores cristãos e participação na comunidade.
+- **Idiomas:** estudando inglês.
 
-## 06. Vamos nos conectar?
+## 06. Contato
 
-Estou em busca de oportunidades para continuar evoluindo na área de tecnologia, contribuir com projetos reais e aprender com outros profissionais.
+Estou aberto a oportunidades de aprendizado, colaboração e desenvolvimento de projetos.
 
 <p align="center">
   <a href="mailto:kaioalan29@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/KaioAlanGOliveira">
-    <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=E8C46A" alt="Enviar e-mail" />
   </a>
   <a href="https://wa.me/5561991387445">
-    <img src="https://img.shields.io/badge/WHATSAPP-171717?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WHATSAPP-111111?style=for-the-badge&logo=whatsapp&logoColor=E8C46A" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/KaioAlanGOliveira">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=E8C46A" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Construindo hoje. Aprendendo sempre. Evoluindo continuamente.</strong>
-</p>
-
-<p align="center">
-  <sub>Obrigado por visitar meu perfil.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6F541B,50:191919,100:080808" width="100%" alt="Rodapé preto e dourado" />
+  <b>DISCIPLINA HOJE. LIBERDADE AMANHÃ.</b>
 </p>
