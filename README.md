@@ -205,8 +205,7 @@ Organização automatizada de arquivos.
 
 ## Interesses
 
-Além da programação, valorizo o conhecimento, a disciplina e o desenvolvimento pessoal. Tenho interesse em filosofia, ciência, ficção científica, esporte, fé católica e aprendizado de inglês.
-
+Além da tecnologia, busco ampliar meus conhecimentos e aprimorar minhas habilidades pessoais. Tenho interesse em filosofia, ciência, ficção científica, esportes, fé católica e no aprendizado contínuo de inglês, áreas que contribuem para minha visão de mundo e meu desenvolvimento.
 ## Contato
 
 <p align="center">
