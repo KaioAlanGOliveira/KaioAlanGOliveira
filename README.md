@@ -122,89 +122,80 @@ Ferramentas para consultas SQL, exploração de dados e modelagem de bancos de d
   </tr>
 </table>
 
-## Projetos
+## Projetos em destaque
+
+Projetos desenvolvidos para aplicar conhecimentos em desenvolvimento de software, banco de dados, interfaces e automação.
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-**WP-CateSys**
+**[WP-CateSys](https://github.com/KaioAlanGOliveira/WP-CateSys)**
 
-Sistema web para gerenciamento de alunos, professores, turmas, aulas e presenças.
+Sistema de gestão de alunos, turmas e aulas.
 
-`Java` `Angular` `MySQL`
+<sub>Java · Angular · JPA · MySQL</sub>
 
-[Ver repositório](https://github.com/KaioAlanGOliveira/WP-CateSys)
+</td>
+<td width="50%" valign="top">
 
-    </td>
-    <td width="50%" valign="top">
+**[WP-Login](https://github.com/KaioAlanGOliveira/WP-Login)**
 
-**WP-Login**
+Projeto de autenticação e serviços web.
 
-Projeto de integração entre frontend e backend.
+<sub>Java · REST · JPA</sub>
 
-`Java` `Angular` `JPA`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[Ver repositório](https://github.com/KaioAlanGOliveira/WP-Login)
+**[Cadastro Fiel](https://github.com/KaioAlanGOliveira/sw_cad_fiel)**
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+Aplicação de cadastro.
 
-**Cadastro de Fiéis**
+<sub>Java</sub>
 
-Aplicação desktop para cadastro e gerenciamento de informações.
+</td>
+<td width="50%" valign="top">
 
-`Java` `Swing`
+**[Tool-QrCode](https://github.com/KaioAlanGOliveira/Tool-QrCode)**
 
-[Ver repositório](https://github.com/KaioAlanGOliveira/sw_cad_fiel)
+Ferramenta para trabalhar com QR Codes.
 
-    </td>
-    <td width="50%" valign="top">
+<sub>Java</sub>
 
-**Tool-QrCode**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Ferramenta para geração de QR Codes.
+**[WhatsApp Bot](https://github.com/KaioAlanGOliveira/whatsapp-bot)**
 
-`Java`
+Automação utilizando navegador.
 
-[Ver repositório](https://github.com/KaioAlanGOliveira/Tool-QrCode)
+<sub>Java · Selenium</sub>
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-**WhatsApp Bot**
+**[Directory Organizer](https://github.com/KaioAlanGOliveira/directory-organizer)**
 
-Projeto de automação de interações com o WhatsApp Web.
+Organização automatizada de arquivos.
 
-`Java` `Selenium`
+<sub>Java</sub>
 
-[Ver repositório](https://github.com/KaioAlanGOliveira/whatsapp-bot)
-
-    </td>
-    <td width="50%" valign="top">
-
-**Directory Organizer**
-
-Ferramenta para organização de arquivos e diretórios.
-
-`JavaScript` `Node.js`
-
-[Ver repositório](https://github.com/KaioAlanGOliveira/directory-organizer)
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/KaioAlanGOliveira?tab=repositories">
-    <img src="https://img.shields.io/badge/VER_TODOS_OS_PROJETOS-292929?style=for-the-badge&logo=github&logoColor=E5C477" alt="Ver todos os projetos" />
-  </a>
-</p>
+<div align="center">
 
+<a href="https://github.com/KaioAlanGOliveira?tab=repositories">
+<img src="https://img.shields.io/badge/OUTROS%20PROJETOS-171717?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Outros projetos"/>
+</a>
+
+</div>
 ## Estatísticas
 
 <p align="center">
